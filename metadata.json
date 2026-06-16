@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Quest-Buddy",
+  "description": "An interactive learning console for Mastering Simple Past & Past Continuous Questions and Shadowing Pronunciation drills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
